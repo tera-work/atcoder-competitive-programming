@@ -1,0 +1,10 @@
+# Pythonが自動生成するキャッシュ
+__pycache__/
+*.py[cod]
+
+# 仮想環境
+venv/
+.venv/
+
+# OSのゴミ
+.DS_Store
