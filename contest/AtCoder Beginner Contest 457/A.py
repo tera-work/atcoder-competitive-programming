@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc457/tasks/abc457_a
 
-#  Approach: 配列のX番目に位置にある要素を出力する。
+# Approach: 配列のX番目に位置にある要素を出力する。
 
 # Time Complexity: O(1)
 

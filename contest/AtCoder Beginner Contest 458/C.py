@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc458/tasks/abc458_c
 
-#  Approach: 文字Cが中央になるような奇数文字の部分文字列の数を、それぞれのCから求め合計を出力する。
+# Approach: 文字Cが中央になるような奇数文字の部分文字列の数を、それぞれのCから求め合計を出力する。
 
 # Time Complexity: O(|S|)
 

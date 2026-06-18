@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc456/tasks/abc456_b
 
-#  Approach: それぞれのサイコロで4,5,6がでる確率を調べて結果を出力する。
+# Approach: それぞれのサイコロで4,5,6がでる確率を調べて結果を出力する。
 
 # Time Complexity: O(1)
 

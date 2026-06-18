@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc448/tasks/abc448_b
 
-#  Approach: 各種類ごとの数量の合計を配列で管理する。その後、各種類についてmin(合計, 上限C[i])を計算し、その合計を答えとする。
+# Approach: 各種類ごとの数量の合計を配列で管理する。その後、各種類についてmin(合計, 上限C[i])を計算し、その合計を答えとする。
 
 # Time Complexity: O(N + M)
 

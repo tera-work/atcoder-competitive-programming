@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc460/tasks/abc460_b
 
-#  Approach: 2つの円の中心間距離の二乗 d² を求める。接する条件(r1-r2)² ≤ d² ≤ (r1+r2)²を満たすか判定する。
+# Approach: 2つの円の中心間距離の二乗 d² を求める。接する条件(r1-r2)² ≤ d² ≤ (r1+r2)²を満たすか判定する。
 
 # Time Complexity: O(T)
 

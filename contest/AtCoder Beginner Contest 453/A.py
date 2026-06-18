@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc453/tasks/abc453_a
 
-#  Approach: 文字列を配列として受け取り、配列の先頭に連続してでてくるoを除いていき、o以外がでた時点で残りを文字列に戻して出力する。
+# Approach: 文字列を配列として受け取り、配列の先頭に連続してでてくるoを除いていき、o以外がでた時点で残りを文字列に戻して出力する。
 
 # Time Complexity: O(N)
 

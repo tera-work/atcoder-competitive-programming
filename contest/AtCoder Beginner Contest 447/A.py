@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc447/tasks/abc447_a
 
-#  Approach: 入力された数が奇数か偶数かによって分岐させ、範囲を定める
+# Approach: 入力された数が奇数か偶数かによって分岐させ、範囲を定める
 
 # Time Complexity: O(N)
 

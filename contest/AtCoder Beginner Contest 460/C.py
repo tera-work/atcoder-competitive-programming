@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc460/tasks/abc460_c
 
-#  Approach: 尺取り法を使って、AとBの組み合わせの数を求める。
+# Approach: 尺取り法を使って、AとBの組み合わせの数を求める。
 
 # Time Complexity: O( NlogN + MlogM )
 

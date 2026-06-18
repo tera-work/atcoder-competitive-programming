@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc449/tasks/abc449_a
 
-#  Approach: Dを円の面積の公式に基づき計算する
+# Approach: Dを円の面積の公式に基づき計算する
 
 # Time Complexity: O(1)
 

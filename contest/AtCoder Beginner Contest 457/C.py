@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc457/tasks/abc457_c
 
-#  Approach: 配列の要素数から、答えがある行を特定し、そこから答えを導く。
+# Approach: 配列の要素数から、答えがある行を特定し、そこから答えを導く。
 
 # Time Complexity: O(N)
 

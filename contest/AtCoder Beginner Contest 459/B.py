@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc459/tasks/abc459_b
 
-#  Approach: 文字列の頭文字を空の配列に判定をしながら追加していき、最後に文字列に変換して出力する。
+# Approach: 文字列の頭文字を空の配列に判定をしながら追加していき、最後に文字列に変換して出力する。
 
 # Time Complexity: O(N)
 

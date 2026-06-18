@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc456/tasks/abc456_a
 
-#  Approach: Xの値がすべて1のでたときからすべて6がでたときの値の範囲内にあるか調べる。
+# Approach: Xの値がすべて1のでたときからすべて6がでたときの値の範囲内にあるか調べる。
 
 # Time Complexity: O(1)
 

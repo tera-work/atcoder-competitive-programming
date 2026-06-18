@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc450/tasks/abc450_a
 
-#  Approach: Nから1までの数列を作り、カンマ区切りで出力する
+# Approach: Nから1までの数列を作り、カンマ区切りで出力する
 
 # Time Complexity: O(N)
 

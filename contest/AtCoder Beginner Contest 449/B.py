@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc449/tasks/abc449_b
 
-#  Approach: queryの一列目に応じて、二列目を行か列から引いていく
+# Approach: queryの一列目に応じて、二列目を行か列から引いていく
 
 # Time Complexity: O(Q)
 

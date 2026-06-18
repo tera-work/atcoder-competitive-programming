@@ -4,7 +4,7 @@
 
 # URL: https://atcoder.jp/contests/abc458/tasks/abc458_b
 
-#  Approach: 隣接マスの最大値4で配列を作り、グリッドの行と列の端にあたる場合-1を行う。
+# Approach: 隣接マスの最大値4で配列を作り、グリッドの行と列の端にあたる場合-1を行う。
 
 # Time Complexity: O(H * W)
 
